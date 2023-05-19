@@ -1,6 +1,6 @@
 /* PC、スマホ共通スタイル */
 body {
-  font-family: 'Noto Serif JP', serif;
+  font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
 }
 
 p {
